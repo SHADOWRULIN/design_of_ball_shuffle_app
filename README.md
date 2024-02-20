@@ -1,16 +1,2 @@
-# design_a_ball_shuffle_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-02-20 235636](https://github.com/SHADOWRULIN/design_of_ball_shuffle_app/assets/157240338/25368c14-0e53-4eae-ad51-fac3031fefb8)
+![Screenshot 2024-02-20 235619](https://github.com/SHADOWRULIN/design_of_ball_shuffle_app/assets/157240338/d9721393-e174-446e-a454-653d00582a74)
